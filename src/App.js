@@ -40,6 +40,7 @@ function App() {
       <TextForm heading = "Enter a text to analyze" mode={mode}/>
       {/*<About1 />*/}
     </div>
+    <button>hello</button>
     
     </>
   );
